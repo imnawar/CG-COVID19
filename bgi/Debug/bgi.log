@@ -1,0 +1,3 @@
+﻿  main.cxx
+C:\my daya\CS level 8\CG\BGI2010\bgi\main.cxx(218,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  bgi.vcxproj -> C:\my daya\CS level 8\CG\BGI2010\bgi\Debug\bgi.exe
